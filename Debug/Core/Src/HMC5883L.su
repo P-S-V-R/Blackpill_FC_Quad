@@ -1,0 +1,15 @@
+../Core/Src/HMC5883L.c:11:8:HMC5883L_readRaw	40	static
+../Core/Src/HMC5883L.c:20:8:HMC5883L_readNormalize	40	static
+../Core/Src/HMC5883L.c:29:6:HMC5883L_setOffset	16	static
+../Core/Src/HMC5883L.c:35:6:HMC5883L_setRange	16	static
+../Core/Src/HMC5883L.c:78:18:HMC5883L_getRange	8	static
+../Core/Src/HMC5883L.c:83:6:HMC5883L_setMeasurementMode	24	static
+../Core/Src/HMC5883L.c:94:17:HMC5883L_getMeasurementMode	16	static
+../Core/Src/HMC5883L.c:104:6:HMC5883L_setDataRate	24	static
+../Core/Src/HMC5883L.c:115:21:HMC5883L_getDataRate	16	static
+../Core/Src/HMC5883L.c:126:6:HMC5883L_setSamples	24	static
+../Core/Src/HMC5883L.c:137:20:HMC5883L_getSamples	16	static
+../Core/Src/HMC5883L.c:149:6:HMC5883L_writeRegister8	32	static
+../Core/Src/HMC5883L.c:155:9:HMC5883L_fastRegister8	40	static
+../Core/Src/HMC5883L.c:164:9:HMC5883L_readRegister8	40	static
+../Core/Src/HMC5883L.c:172:9:HMC5883L_readRegister16	40	static
